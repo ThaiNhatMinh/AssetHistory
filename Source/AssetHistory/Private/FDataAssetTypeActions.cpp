@@ -1,5 +1,3 @@
-// Copyright Ather Labs, Inc. All Rights Reserved.
-
 
 #include "FDataAssetTypeActions.h"
 #include "DataAssetDiff.h"

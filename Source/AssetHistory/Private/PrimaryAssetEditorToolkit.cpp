@@ -1,5 +1,3 @@
-// Copyright Ather Labs, Inc. All Rights Reserved.
-
 
 #include "PrimaryAssetEditorToolkit.h"
 #include "Widgets/SWidget.h"
